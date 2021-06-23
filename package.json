@@ -1,0 +1,12 @@
+{
+  "name": "0611-github",
+  "version": "1.0.0",
+  "description": "組長 , new master => 開分支 dev  => 建結構 [ image / sass / html / js / gulpfile.js / package.json ]\r github => 在sourcetree checkout dev => [ 開分支 dev2 ] ,開發專用  => 併回dev => push github  =>  在sourcetree checkout dev  => dev2 merge dev [dev2 繼續開發]",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
